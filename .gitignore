@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.python-version
+
+# Analysis scripts and outputs (not chatbot-related)
+analysis.py
+segmentation.py
+framework_diagram.py
+main.py
+*.png
+
+# Survey data (contains personal info)
+*.csv
